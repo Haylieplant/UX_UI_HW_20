@@ -1,0 +1,56 @@
+.logo{ 
+    width: 5px;
+    height: 5px;
+    padding: 1%;
+    text-align: start;}
+
+
+    h1 { 
+        display: block;
+        font-size: 96px;
+        font-family:'Satisfy', cursive;
+        text-align: center;
+        margin-top: 0.67em;
+        margin-bottom: 0.67em;
+        margin-left: 0;
+        margin-right: 0;
+        font-weight: bold;
+        color: midnightblue;
+    }    
+    h2 {
+        display: block;
+        font-size: 36px;
+        font-family: 'Josefin Slab', serif;
+        text-align: center;
+        margin-top: 0.83em;
+        margin-bottom: 0.83em;
+        margin-left: 0;
+        margin-right: 0;
+        font-weight: bold;
+        color: midnightblue;
+    }
+      h5 {
+          display: block;
+        font-size: 36px;
+        font-family: 'Josefin Slab', serif;
+        text-align: center;
+        margin-top: 0.83em;
+        margin-bottom: 0.83em;
+        margin-left: 0;
+        margin-right: 0;
+        font-weight: bold;
+        color: midnightblue;
+
+      }  
+
+        p{
+            font-family: Josefin Sans light;
+            font-size: 24px;
+            width: 70%;
+            margin: 100px;
+            text-align: center;
+            color: midnightblue;
+        }
+
+
+    
